@@ -2,22 +2,6 @@ action-msgs==1.2.1
 action-tutorials-interfaces==0.20.5
 action-tutorials-py==0.20.5
 actionlib-msgs==4.2.4
-aext-assistant @ file:///croot/aext-assistant_1733510859628/work
-aext-assistant-server @ file:///croot/aext-assistant-server_1732304025117/work
-aext-core @ file:///croot/aext-core_1732540004256/work
-aext-core-server @ file:///croot/aext-core-server_1732219460366/work
-aext-panels @ file:///croot/aext-panels_1733511112494/work
-aext-panels-server @ file:///croot/aext-panels-server_1732540036576/work
-aext-share-notebook @ file:///croot/aext-share-notebook_1733513074403/work
-aext-share-notebook-server @ file:///croot/aext-share-notebook-server_1733503820621/work
-aext-shared @ file:///croot/aext-shared_1732208991083/work
-aiobotocore @ file:///croot/aiobotocore_1714464387507/work
-aiohappyeyeballs @ file:///croot/aiohappyeyeballs_1725434011349/work
-aiohttp @ file:///croot/aiohttp_1725527756643/work
-aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-alabaster @ file:///croot/alabaster_1718201490751/work
-altair @ file:///work/perseverance-python-buildout/croot/altair_1698866618831/work
 ament-cmake-test==1.3.10
 ament-copyright==0.12.11
 ament-cppcheck==0.12.11
